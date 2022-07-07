@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello git_test2 World!\n";
 	//why it doen't wont to push?
+	//finally it's working!!!
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
